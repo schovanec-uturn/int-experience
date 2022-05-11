@@ -14,9 +14,9 @@
 ~ Ability to switch tasks as needed to shadow internal or external meetings \
 ~ Complete the cloud practitioner, at least one associate level AWS Certification, and the Terraform Certification
 #
-## Getting Started
-[Getting Started](Getting%20Started)
-## AWS Training
-## Terraform Training
-## Tech Challenge / Learning
-## Git, GitHub, and Other CI/CD Tools
+## [Getting Started](Getting%20Started)
+## [AWS Training](AWS%20Training)
+## [Terraform Training](Terraform%20Training)
+## [Tech Challenge](Tech%20Challenge)
+## [Git, GitHub, and Other CI/CD Tools](Git)
+#
