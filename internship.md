@@ -15,17 +15,8 @@
 ~ Complete the cloud practitioner, at least one associate level AWS Certification, and the Terraform Certification
 #
 ## Getting Started
-- laptop set-up
-- app recommonations and useful chrome extensions
-- account(s) set-up
-#
-## Here are some resources our past interns have found benefical to their learning experience:
+## Terraform Training
 
-### Terraform Training
-
-### AWS Training
-### Certification Prep
-### Tech Challenge / Learning
-- https://github.com/uturndata/tech-challenge-2021
-### Git, GitHub, and Other CI/CD Tools
-- https://launchschool.com/books/git/read/github
+## AWS Training
+## Tech Challenge / Learning
+## Git, GitHub, and Other CI/CD Tools
