@@ -1,4 +1,4 @@
-![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
+<!-- ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg) -->
 # Uturn Cloud Engineer Internship
 <img src="https://media.giphy.com/media/zpXjSbBtrqyCUSTThL/giphy.gif" width="250"/>
 
@@ -21,4 +21,4 @@
 ## [Tech Challenge](Tech%20Challenge)
 ## [Git, GitHub, and Other CI/CD Tools](Git)
 
-### Do NOT be afraid to ask questions, that IS part of the internship!
+#### Do NOT be afraid to ask questions, that IS part of the internship!
