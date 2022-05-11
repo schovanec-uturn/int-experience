@@ -15,6 +15,7 @@
 ~ Complete the cloud practitioner, at least one associate level AWS Certification, and the Terraform Certification
 #
 ## Getting Started
+[Getting Started](Getting%20Started)
 ## AWS Training
 ## Terraform Training
 ## Tech Challenge / Learning
