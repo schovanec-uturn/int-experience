@@ -1,1 +1,0 @@
-# Dev-Ops Certification Preperation

@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/zpXjSbBtrqyCUSTThL/giphy.gif" width="250"/>
 </p>
-<img src="https://media.giphy.com/media/zpXjSbBtrqyCUSTThL/giphy.gif" width="250"/>
 
 ## What to Expect
 ~ Fast paced, dynamic environment \
@@ -19,9 +18,9 @@
 ~ Complete the AWS cloud practitioner, at least one associate level Certification, and the Terraform Certification
 #
 ## [Getting Started](Getting%20Started)
-## [AWS Training](AWS%20Training)
-## [Terraform Training](Terraform%20Training)
-## [Tech Challenge](Tech%20Challenge)
-## [Git, GitHub, and Other CI/CD Tools](Git)
+## [AWS Training](AWS-Training.md)
+## [Terraform Training](TF-Training.md)
+## [Tech Challenge](Tech-Chal.md)
+## [Git, GitHub, and Other CI/CD Tools](Git.md)
 
 #### Do NOT be afraid to ask questions, that IS part of the internship!
