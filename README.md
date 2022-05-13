@@ -1,5 +1,8 @@
 <!-- ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg) -->
 # Uturn Cloud Engineer Internship
+<p align="center">
+  <img src="https://media.giphy.com/media/zpXjSbBtrqyCUSTThL/giphy.gif" width="250"/>
+</p>
 <img src="https://media.giphy.com/media/zpXjSbBtrqyCUSTThL/giphy.gif" width="250"/>
 
 ## What to Expect

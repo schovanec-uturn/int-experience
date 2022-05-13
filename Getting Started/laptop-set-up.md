@@ -12,12 +12,12 @@ Install:
 - PowerShell
 - AWS Toolkit
 - EditorConfig
-- Better Commenting
 - Path Intellisense
+- Better Commenting
 - HashiCorp Terraform
 - Prettier - Code formatter
 - icon package of choice (easy visuals)
 
-To open your json configuration file: \
+>To open your json configuration file: \
 Shift+command+P \
 Prefrences: Open Settings (JSON)
