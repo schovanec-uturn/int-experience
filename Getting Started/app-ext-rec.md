@@ -10,7 +10,7 @@
 - Microsoft Outlook
 - Stickies / Reminders
 ## Chrome Extensions
-- Create a new google profile to use for work purposes; easy access bookmarks, passwords, and history, etc.
+- Create a new google profile to use for work purposes; easy access to bookmarks, passwords, and history, etc.
 - BitWarden
 - TextToSpeech
 -
