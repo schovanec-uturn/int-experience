@@ -2,6 +2,7 @@
 ## Setting Up ZSH
 Walkthrough on how to set ZSH: \
 ~ https://www.youtube.com/watch?v=D2PSsnqgBiw ~ \
+~ https://www.youtube.com/watch?v=eLEo4OQ-cuQ ~ \
 Note: Some additional configuration may be needed for the terminal in VSCode to present correctly. Recommended external terminal is iTerm2 which can be found in the App Store.
 ## Setting up VSCode
 Install:
